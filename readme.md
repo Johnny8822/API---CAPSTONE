@@ -1,0 +1,1 @@
+API for ECGN3021 Project - Creating the API and server to store tempareture reading from both sides of the peliter modules and the tmperature in the room the Air Condituonig set point and also 
